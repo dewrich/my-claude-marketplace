@@ -10,6 +10,11 @@
       "description": "Run up to 20 Claude agents in dewterm panes: report first, check main, plan phases, launch, with timer, sweeps and watch clocks"
     },
     {
+      "name": "improve-orchestrator",
+      "source": "./plugins/improve-orchestrator",
+      "description": "Keep improving the orchestrator: tell it once what should work differently, an agent builds it in a new pane, merge, plugin update, next /orchestrator is better"
+    },
+    {
       "name": "fix-ci",
       "source": "./plugins/fix-ci",
       "description": "Diagnose and fix failing CI checks on a GitHub PR and address its open review comments"
