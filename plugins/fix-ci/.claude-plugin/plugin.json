@@ -1,0 +1,5 @@
+{
+  "name": "fix-ci",
+  "version": "0.1.0",
+  "description": "Diagnose and fix failing CI checks on a GitHub PR and address its open review comments"
+}

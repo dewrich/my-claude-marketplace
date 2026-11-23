@@ -1,0 +1,5 @@
+{
+  "name": "orchestrator",
+  "version": "0.1.0",
+  "description": "Run up to 20 Claude agents in dewterm panes: report first, check main, plan phases, launch, with timer, sweeps and watch clocks. Type /orchestrator inside a dewterm pane."
+}

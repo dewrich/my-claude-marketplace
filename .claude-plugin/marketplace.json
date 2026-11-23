@@ -1,0 +1,23 @@
+{
+  "name": "dewrich-claude-marketplace",
+  "owner": {
+    "name": "dewrich"
+  },
+  "plugins": [
+    {
+      "name": "orchestrator",
+      "source": "./plugins/orchestrator",
+      "description": "Run up to 20 Claude agents in dewterm panes: report first, check main, plan phases, launch, with timer, sweeps and watch clocks"
+    },
+    {
+      "name": "fix-ci",
+      "source": "./plugins/fix-ci",
+      "description": "Diagnose and fix failing CI checks on a GitHub PR and address its open review comments"
+    },
+    {
+      "name": "dewrich-commands",
+      "source": "./plugins/dewrich-commands",
+      "description": "Personal slash commands: gitpb, gmgp, qlty-check, wp"
+    }
+  ]
+}
