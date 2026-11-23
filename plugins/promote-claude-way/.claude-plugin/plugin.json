@@ -1,0 +1,5 @@
+{
+  "name": "promote-claude-way",
+  "version": "0.1.0",
+  "description": "Promote skills, commands, plugins and mods from my-claude-marketplace into the Wayleadr claude-marketplace: adapt them to its conventions, validate, and leave a local commit ready for gcpr. Type /promote-claude-way <name...>."
+}
