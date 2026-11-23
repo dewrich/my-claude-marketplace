@@ -1,4 +1,4 @@
-# dewrich-claude-marketplace
+# my-claude-marketplace
 
 One local marketplace for everything personal that extends Claude Code on this machine:
 plugins (skills, agents, hooks), mods (UI), and slash commands. Separate from the work
@@ -27,5 +27,5 @@ is a plugin whose `hooks/register.tsx` draws UI; a skill or slash command is a p
 
 1. Create `plugins/<name>/.claude-plugin/plugin.json` and its content.
 2. Add an entry to `.claude-plugin/marketplace.json`.
-3. `claude plugin validate .`, then enable `<name>@dewrich-claude-marketplace` in
+3. `claude plugin validate .`, then enable `<name>@my-claude-marketplace` in
    `~/.claude-home/settings.json`.
