@@ -23,7 +23,7 @@ is a plugin whose `hooks/register.tsx` draws UI; a skill or slash command is a p
 | `promote-claude-way` | skill | live |
 | `improve-orchestrator` | skill | live |
 | `fix-ci` | skill | live |
-| `dewrich-commands` | slash commands: gitpb, gmgp, qlty-check, wp | live |
+| `dev-commands` | slash commands: gitpb, gmgp, qlty-check, wp | live |
 
 ## Adding one
 

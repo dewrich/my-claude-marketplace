@@ -20,8 +20,8 @@
       "description": "Diagnose and fix failing CI checks on a GitHub PR and address its open review comments"
     },
     {
-      "name": "dewrich-commands",
-      "source": "./plugins/dewrich-commands",
+      "name": "dev-commands",
+      "source": "./plugins/dev-commands",
       "description": "Personal slash commands: gitpb, gmgp, qlty-check, wp"
     },
     {
