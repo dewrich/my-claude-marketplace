@@ -1,0 +1,5 @@
+{
+  "name": "improve-orchestrator",
+  "version": "0.1.0",
+  "description": "Keep improving the orchestrator plugin: tell it once what should work differently, an agent builds it in a new dewterm pane, you merge, update, and the next /orchestrator is better. Type /improve-orchestrator <what you spotted>."
+}
