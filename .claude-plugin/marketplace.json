@@ -23,6 +23,11 @@
       "name": "dewrich-commands",
       "source": "./plugins/dewrich-commands",
       "description": "Personal slash commands: gitpb, gmgp, qlty-check, wp"
+    },
+    {
+      "name": "promote-claude-way",
+      "source": "./plugins/promote-claude-way",
+      "description": "Promote skills, commands, plugins and mods from my-claude-marketplace into the Wayleadr claude-marketplace, adapted and validated, as a local commit ready for gcpr"
     }
   ]
 }
